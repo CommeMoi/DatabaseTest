@@ -1,0 +1,6 @@
+<root>
+    <item name='android.net.Uri java.util.List&lt;java.lang.String&gt; getPathSegments()'>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='android.support.annotation.Nullable' />
+    </item>
+</root>
